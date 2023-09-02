@@ -1,0 +1,17 @@
+C:\Users\OSVALDO KURNIAWAN\Documents\Semester 5\PBKK\Kuliah1\Kuliah1\obj\Debug\net6.0-windows\Kuliah1.csproj.AssemblyReference.cache
+C:\Users\OSVALDO KURNIAWAN\Documents\Semester 5\PBKK\Kuliah1\Kuliah1\obj\Debug\net6.0-windows\Kuliah1.Form1.resources
+C:\Users\OSVALDO KURNIAWAN\Documents\Semester 5\PBKK\Kuliah1\Kuliah1\obj\Debug\net6.0-windows\Kuliah1.csproj.GenerateResource.cache
+C:\Users\OSVALDO KURNIAWAN\Documents\Semester 5\PBKK\Kuliah1\Kuliah1\obj\Debug\net6.0-windows\Kuliah1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OSVALDO KURNIAWAN\Documents\Semester 5\PBKK\Kuliah1\Kuliah1\obj\Debug\net6.0-windows\Kuliah1.AssemblyInfoInputs.cache
+C:\Users\OSVALDO KURNIAWAN\Documents\Semester 5\PBKK\Kuliah1\Kuliah1\obj\Debug\net6.0-windows\Kuliah1.AssemblyInfo.cs
+C:\Users\OSVALDO KURNIAWAN\Documents\Semester 5\PBKK\Kuliah1\Kuliah1\obj\Debug\net6.0-windows\Kuliah1.csproj.CoreCompileInputs.cache
+C:\Users\OSVALDO KURNIAWAN\Documents\Semester 5\PBKK\Kuliah1\Kuliah1\bin\Debug\net6.0-windows\Kuliah1.exe
+C:\Users\OSVALDO KURNIAWAN\Documents\Semester 5\PBKK\Kuliah1\Kuliah1\bin\Debug\net6.0-windows\Kuliah1.deps.json
+C:\Users\OSVALDO KURNIAWAN\Documents\Semester 5\PBKK\Kuliah1\Kuliah1\bin\Debug\net6.0-windows\Kuliah1.runtimeconfig.json
+C:\Users\OSVALDO KURNIAWAN\Documents\Semester 5\PBKK\Kuliah1\Kuliah1\bin\Debug\net6.0-windows\Kuliah1.dll
+C:\Users\OSVALDO KURNIAWAN\Documents\Semester 5\PBKK\Kuliah1\Kuliah1\bin\Debug\net6.0-windows\Kuliah1.pdb
+C:\Users\OSVALDO KURNIAWAN\Documents\Semester 5\PBKK\Kuliah1\Kuliah1\obj\Debug\net6.0-windows\Kuliah1.dll
+C:\Users\OSVALDO KURNIAWAN\Documents\Semester 5\PBKK\Kuliah1\Kuliah1\obj\Debug\net6.0-windows\refint\Kuliah1.dll
+C:\Users\OSVALDO KURNIAWAN\Documents\Semester 5\PBKK\Kuliah1\Kuliah1\obj\Debug\net6.0-windows\Kuliah1.pdb
+C:\Users\OSVALDO KURNIAWAN\Documents\Semester 5\PBKK\Kuliah1\Kuliah1\obj\Debug\net6.0-windows\Kuliah1.genruntimeconfig.cache
+C:\Users\OSVALDO KURNIAWAN\Documents\Semester 5\PBKK\Kuliah1\Kuliah1\obj\Debug\net6.0-windows\ref\Kuliah1.dll
